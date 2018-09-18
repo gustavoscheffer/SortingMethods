@@ -1,8 +1,10 @@
 # SortingMethods
-Common Sorting Methods
 
-This directory contains the five common sorting methods implemented using c++
+This directory contains the six common sorting methods implemented using c++
 
-* Bubble Sort 
-* Insertion Sort
-* Selection Sort
+* Bubble Sort  - COMPLETE
+* Insertion Sort - REVIEWING
+* Selection Sort - REVIEWING
+* Merge Sort - PENDING
+* Shell Sort - PENDING
+* Quick Sort - PENDING
