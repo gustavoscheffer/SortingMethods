@@ -17,7 +17,7 @@ int main(int argc, char const *argv[])
 	for (int i = pos; i < LENGTH; i++)
 	{	
 		// compare if first value is greater than second
-		if (array[i] > array[i+1] )
+		if (array[i] > array[i+1])
 		{
 			// Save last position to swap
 			pos  = i;
