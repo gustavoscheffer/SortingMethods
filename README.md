@@ -6,5 +6,5 @@ This directory contains the six common sorting methods implemented using c++
 * Insertion Sort - COMPLETE
 * Selection Sort - COMPLETE
 * Merge Sort - PENDING
-* Shell Sort - PENDING
+* Shell Sort - REVIEW
 * Quick Sort - PENDING
